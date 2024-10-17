@@ -1,0 +1,6 @@
+[INFO ] 2024-03-31 15:56:44.781 [main] PlextracPractice - Entered Email
+[INFO ] 2024-03-31 15:56:50.064 [main] PlextracPractice - Entered Password
+[INFO ] 2024-03-31 15:56:55.152 [main] PlextracPractice - Clicked on login
+[INFO ] 2024-03-31 15:56:55.163 [main] PlextracPractice - VerifyLogin - Passed
+[INFO ] 2024-03-31 15:56:55.165 [main] PlextracPractice - url opened
+[INFO ] 2024-03-31 15:56:57.720 [main] PlextracPractice - Clicked on Clients menu
