@@ -8,7 +8,7 @@ import java.util.Properties;
 public class ReadConfig {
 	
 	public static Properties prop;
-	String path = "D:\\Automation\\SecondWorkspace\\PlextracPractice\\Configuration\\Config.properties";
+	String path = "D:\\Automation\\SecondWorkspace\\PlextracPractice\\Configuration\\Config-qa.properties";
 	
 	public ReadConfig () {
 		
